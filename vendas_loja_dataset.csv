@@ -1,0 +1,501 @@
+﻿VendaID,Data,Cliente,Cidade,Produto,Categoria,Quantidade,Valor_Unitario,Valor_Total,Pagamento
+1,19/02/2026,Thiago,Manaus,Monitor,Informática,3,840.05,2520.15,Cartão
+2,09/02/2026,José,Rio Branco,Impressora,Informática,2,909.7,1819.4,Pix
+3,30/03/2026,Helena,Porto Velho,Teclado,Informática,4,130.6,522.4,Boleto
+4,14/06/2026,José,Belém,Headset,Informática,4,403.76,1615.04,Pix
+5,21/01/2026,Mateus,Belém,Impressora,Informática,4,1741.95,6967.8,Pix
+6,19/02/2026,Rafael,Belém,Teclado,Informática,4,108.79,435.16,Boleto
+7,08/06/2026,Juliana,Belém,Teclado,Informática,3,344.81,1034.43,Cartão
+8,17/03/2026,Mateus,Porto Velho,Monitor,Informática,4,1033.39,4133.56,Dinheiro
+9,28/02/2026,Bruno,Rio Branco,Notebook,Informática,2,4020.99,8041.98,Cartão
+10,19/04/2026,Helena,Manaus,Notebook,Informática,3,3857.49,11572.47,Pix
+11,24/01/2026,Thiago,Porto Velho,Teclado,Informática,2,184.5,369.0,Pix
+12,26/02/2026,Camila,Porto Velho,Headset,Informática,4,273.54,1094.16,Cartão
+13,21/01/2026,Carlos,Boa Vista,Mouse,Informática,2,124.41,248.82,Pix
+14,21/03/2026,Paula,Rio Branco,Teclado,Informática,4,112.51,450.04,Pix
+15,04/05/2026,José,Boa Vista,Impressora,Informática,2,1223.07,2446.14,Boleto
+16,31/03/2026,Mateus,Porto Velho,Teclado,Informática,1,153.24,153.24,Pix
+17,15/01/2026,Bianca,Boa Vista,Notebook,Informática,1,4932.56,4932.56,Dinheiro
+18,21/04/2026,Juliana,Belém,Notebook,Informática,1,5175.21,5175.21,Dinheiro
+19,31/05/2026,Carlos,Boa Vista,Mouse,Informática,2,123.21,246.42,Dinheiro
+20,12/06/2026,Rafael,Porto Velho,Notebook,Informática,2,5505.88,11011.76,Cartão
+21,10/06/2026,Lucas,Boa Vista,Teclado,Informática,2,289.43,578.86,Pix
+22,26/05/2026,Bruno,Manaus,Impressora,Informática,3,695.32,2085.96,Dinheiro
+23,09/06/2026,Carlos,Boa Vista,SSD,Informática,1,687.16,687.16,Pix
+24,27/05/2026,Lucas,Manaus,Teclado,Informática,3,88.01,264.03,Dinheiro
+25,17/02/2026,Fernanda,Manaus,Mouse,Informática,2,135.71,271.42,Dinheiro
+26,03/05/2026,Fernanda,Belém,Teclado,Informática,1,211.59,211.59,Cartão
+27,15/02/2026,Carlos,Porto Velho,Teclado,Informática,2,90.65,181.3,Cartão
+28,01/05/2026,Larissa,Manaus,SSD,Informática,2,458.99,917.98,Dinheiro
+29,30/05/2026,Gabriel,Rio Branco,Notebook,Informática,1,5143.17,5143.17,Cartão
+30,24/03/2026,Amanda,Porto Velho,Notebook,Informática,4,6330.96,25323.84,Pix
+31,16/05/2026,Larissa,Porto Velho,Impressora,Informática,2,1022.97,2045.94,Pix
+32,30/03/2026,Helena,Rio Branco,Teclado,Informática,4,195.35,781.4,Dinheiro
+33,15/04/2026,Fernanda,Rio Branco,Monitor,Informática,2,1775.27,3550.54,Cartão
+34,13/03/2026,Ana,Belém,Headset,Informática,3,152.46,457.38,Boleto
+35,27/03/2026,Mateus,Boa Vista,Mouse,Informática,1,142.86,142.86,Boleto
+36,14/04/2026,Pedro,Porto Velho,Impressora,Informática,4,805.5,3222.0,Cartão
+37,04/06/2026,Larissa,Manaus,Monitor,Informática,1,1982.92,1982.92,Dinheiro
+38,31/03/2026,Maria,Rio Branco,Impressora,Informática,4,974.27,3897.08,Cartão
+39,04/02/2026,Rafael,Manaus,Headset,Informática,4,665.93,2663.72,Boleto
+40,13/02/2026,Rafael,Porto Velho,Mouse,Informática,4,50.43,201.72,Dinheiro
+41,16/06/2026,Carlos,Belém,Mouse,Informática,4,99.34,397.36,Dinheiro
+42,10/03/2026,Gabriel,Boa Vista,Notebook,Informática,1,4936.53,4936.53,Dinheiro
+43,28/05/2026,José,Belém,Teclado,Informática,1,301.31,301.31,Dinheiro
+44,31/03/2026,Gabriel,Belém,Mouse,Informática,3,94.02,282.06,Dinheiro
+45,05/03/2026,Ana,Manaus,Notebook,Informática,2,5884.64,11769.28,Pix
+46,25/05/2026,Pedro,Belém,Monitor,Informática,3,920.64,2761.92,Cartão
+47,02/03/2026,Juliana,Belém,Notebook,Informática,2,5440.07,10880.14,Cartão
+48,27/06/2026,Juliana,Rio Branco,Monitor,Informática,2,2293.89,4587.78,Dinheiro
+49,04/06/2026,Helena,Belém,Headset,Informática,4,760.2,3040.8,Dinheiro
+50,08/06/2026,Fernanda,Manaus,Mouse,Informática,1,126.81,126.81,Boleto
+51,16/04/2026,Carlos,Belém,Monitor,Informática,1,819.65,819.65,Dinheiro
+52,07/06/2026,Pedro,Porto Velho,Impressora,Informática,2,1023.49,2046.98,Pix
+53,19/04/2026,Ana,Rio Branco,Monitor,Informática,3,1047.33,3141.99,Dinheiro
+54,07/01/2026,Camila,Boa Vista,Notebook,Informática,3,3609.79,10829.37,Pix
+55,16/04/2026,Fernanda,Belém,Mouse,Informática,2,119.81,239.62,Cartão
+56,04/05/2026,Pedro,Belém,Impressora,Informática,3,1492.35,4477.05,Dinheiro
+57,25/02/2026,Rafael,Boa Vista,SSD,Informática,4,755.71,3022.84,Pix
+58,08/05/2026,João,Porto Velho,SSD,Informática,1,683.19,683.19,Cartão
+59,23/01/2026,Carlos,Manaus,Teclado,Informática,1,229.06,229.06,Dinheiro
+60,22/05/2026,Carlos,Rio Branco,SSD,Informática,4,382.69,1530.76,Dinheiro
+61,22/02/2026,Mateus,Belém,Mouse,Informática,1,44.25,44.25,Boleto
+62,28/01/2026,Maria,Rio Branco,Headset,Informática,2,390.49,780.98,Boleto
+63,14/05/2026,Pedro,Porto Velho,Teclado,Informática,4,310.85,1243.4,Dinheiro
+64,19/05/2026,Paula,Belém,Teclado,Informática,1,290.71,290.71,Dinheiro
+65,30/01/2026,Amanda,Porto Velho,Mouse,Informática,4,61.46,245.84,Dinheiro
+66,07/03/2026,Gabriel,Belém,SSD,Informática,2,652.01,1304.02,Pix
+67,24/04/2026,Paula,Rio Branco,Monitor,Informática,3,1970.35,5911.05,Pix
+68,20/05/2026,Maria,Belém,Monitor,Informática,4,897.55,3590.2,Cartão
+69,27/01/2026,Bianca,Belém,SSD,Informática,4,240.36,961.44,Dinheiro
+70,21/03/2026,Bianca,Porto Velho,SSD,Informática,2,321.06,642.12,Dinheiro
+71,01/06/2026,Carlos,Porto Velho,Impressora,Informática,3,618.62,1855.86,Pix
+72,28/04/2026,Carlos,Rio Branco,Teclado,Informática,3,252.99,758.97,Pix
+73,03/04/2026,Lucas,Belém,Headset,Informática,1,455.99,455.99,Pix
+74,19/06/2026,Camila,Boa Vista,Teclado,Informática,1,191.58,191.58,Pix
+75,04/01/2026,Fernanda,Boa Vista,Impressora,Informática,2,1692.86,3385.72,Dinheiro
+76,30/04/2026,Pedro,Rio Branco,Teclado,Informática,3,178.75,536.25,Pix
+77,25/01/2026,Amanda,Manaus,SSD,Informática,4,620.01,2480.04,Cartão
+78,05/03/2026,Bianca,Belém,Headset,Informática,4,356.49,1425.96,Pix
+79,30/04/2026,Fernanda,Porto Velho,SSD,Informática,4,441.41,1765.64,Dinheiro
+80,01/04/2026,Mateus,Porto Velho,Headset,Informática,4,212.65,850.6,Dinheiro
+81,05/01/2026,Pedro,Rio Branco,SSD,Informática,2,394.8,789.6,Pix
+82,13/03/2026,Maria,Rio Branco,Headset,Informática,4,260.07,1040.28,Dinheiro
+83,19/01/2026,Bianca,Boa Vista,Impressora,Informática,1,1344.76,1344.76,Cartão
+84,07/01/2026,Maria,Porto Velho,Monitor,Informática,2,1265.0,2530.0,Boleto
+85,07/03/2026,Ana,Porto Velho,Notebook,Informática,3,4515.99,13547.97,Dinheiro
+86,07/05/2026,Bruno,Manaus,Teclado,Informática,4,109.65,438.6,Pix
+87,17/02/2026,Paula,Rio Branco,SSD,Informática,2,339.85,679.7,Dinheiro
+88,25/01/2026,Bruno,Manaus,Notebook,Informática,2,5842.89,11685.78,Dinheiro
+89,11/06/2026,Juliana,Porto Velho,Teclado,Informática,3,304.51,913.53,Cartão
+90,13/06/2026,Pedro,Porto Velho,Notebook,Informática,3,3890.36,11671.08,Pix
+91,14/06/2026,Rafael,Manaus,Teclado,Informática,3,247.06,741.18,Pix
+92,20/04/2026,Ana,Manaus,Mouse,Informática,1,136.98,136.98,Boleto
+93,24/05/2026,Larissa,Porto Velho,Notebook,Informática,1,5995.71,5995.71,Dinheiro
+94,28/04/2026,Bruno,Rio Branco,Mouse,Informática,1,82.5,82.5,Dinheiro
+95,05/06/2026,Camila,Rio Branco,Teclado,Informática,4,193.11,772.44,Dinheiro
+96,11/06/2026,Larissa,Manaus,Notebook,Informática,2,5822.06,11644.12,Dinheiro
+97,13/01/2026,Lucas,Manaus,Mouse,Informática,4,75.92,303.68,Pix
+98,13/03/2026,Camila,Boa Vista,Impressora,Informática,4,1315.51,5262.04,Boleto
+99,16/05/2026,Maria,Boa Vista,Teclado,Informática,3,81.79,245.37,Cartão
+100,18/01/2026,Bianca,Manaus,Mouse,Informática,4,146.92,587.68,Boleto
+101,22/06/2026,Mateus,Manaus,Teclado,Informática,2,158.91,317.82,Boleto
+102,21/01/2026,Paula,Belém,Mouse,Informática,2,70.84,141.68,Boleto
+103,03/06/2026,Pedro,Porto Velho,Notebook,Informática,3,6202.4,18607.2,Dinheiro
+104,09/05/2026,Carlos,Porto Velho,Impressora,Informática,4,1533.88,6135.52,Pix
+105,08/04/2026,Thiago,Rio Branco,SSD,Informática,4,407.19,1628.76,Pix
+106,24/04/2026,Gabriel,Manaus,Monitor,Informática,4,2181.17,8724.68,Boleto
+107,14/01/2026,Bianca,Belém,Monitor,Informática,1,816.91,816.91,Boleto
+108,07/03/2026,João,Boa Vista,Notebook,Informática,1,6293.52,6293.52,Boleto
+109,12/06/2026,Thiago,Belém,Notebook,Informática,1,5550.92,5550.92,Dinheiro
+110,11/02/2026,Helena,Boa Vista,Mouse,Informática,3,101.82,305.46,Dinheiro
+111,09/01/2026,Camila,Manaus,Teclado,Informática,4,302.04,1208.16,Boleto
+112,12/04/2026,José,Manaus,Mouse,Informática,4,93.6,374.4,Dinheiro
+113,23/02/2026,Juliana,Rio Branco,Teclado,Informática,4,105.13,420.52,Pix
+114,21/01/2026,Amanda,Porto Velho,Teclado,Informática,2,114.8,229.6,Dinheiro
+115,14/05/2026,Ana,Manaus,Mouse,Informática,2,70.02,140.04,Dinheiro
+116,04/06/2026,Carlos,Boa Vista,Monitor,Informática,2,1671.09,3342.18,Pix
+117,30/01/2026,José,Boa Vista,Notebook,Informática,1,3827.56,3827.56,Boleto
+118,05/03/2026,Pedro,Belém,Impressora,Informática,4,975.92,3903.68,Pix
+119,30/06/2026,João,Boa Vista,Headset,Informática,3,206.27,618.81,Pix
+120,29/06/2026,Maria,Boa Vista,Headset,Informática,1,832.14,832.14,Cartão
+121,18/05/2026,Rafael,Boa Vista,Impressora,Informática,3,733.14,2199.42,Cartão
+122,06/04/2026,Bianca,Manaus,Notebook,Informática,3,6062.17,18186.51,Pix
+123,31/01/2026,Larissa,Belém,Headset,Informática,2,385.7,771.4,Dinheiro
+124,19/06/2026,Helena,Rio Branco,Notebook,Informática,4,4753.2,19012.8,Pix
+125,24/04/2026,Lucas,Boa Vista,Notebook,Informática,1,5132.52,5132.52,Dinheiro
+126,24/06/2026,Camila,Porto Velho,Mouse,Informática,3,173.38,520.14,Cartão
+127,19/02/2026,Amanda,Porto Velho,Impressora,Informática,3,1622.3,4866.9,Boleto
+128,31/01/2026,Bianca,Manaus,Notebook,Informática,4,6475.65,25902.6,Dinheiro
+129,05/06/2026,Maria,Manaus,Impressora,Informática,2,1530.43,3060.86,Boleto
+130,07/01/2026,Juliana,Belém,SSD,Informática,4,767.92,3071.68,Boleto
+131,28/03/2026,Pedro,Porto Velho,Impressora,Informática,1,1320.35,1320.35,Pix
+132,12/05/2026,Ana,Rio Branco,Mouse,Informática,1,45.98,45.98,Pix
+133,20/01/2026,João,Boa Vista,Teclado,Informática,2,217.13,434.26,Boleto
+134,26/04/2026,Ana,Boa Vista,Impressora,Informática,3,1619.67,4859.01,Dinheiro
+135,05/02/2026,Rafael,Belém,SSD,Informática,4,415.47,1661.88,Dinheiro
+136,15/04/2026,Amanda,Belém,Notebook,Informática,4,4544.76,18179.04,Cartão
+137,25/05/2026,Camila,Belém,Teclado,Informática,1,209.58,209.58,Dinheiro
+138,13/06/2026,Thiago,Manaus,Mouse,Informática,2,173.72,347.44,Dinheiro
+139,07/01/2026,Pedro,Porto Velho,Monitor,Informática,3,748.57,2245.71,Pix
+140,15/05/2026,Bianca,Manaus,SSD,Informática,1,738.68,738.68,Boleto
+141,17/04/2026,Lucas,Manaus,SSD,Informática,3,523.53,1570.59,Pix
+142,25/04/2026,Bruno,Manaus,Headset,Informática,1,842.72,842.72,Cartão
+143,03/03/2026,Gabriel,Manaus,Teclado,Informática,3,312.48,937.44,Boleto
+144,27/02/2026,Rafael,Rio Branco,Notebook,Informática,3,6247.08,18741.24,Dinheiro
+145,08/02/2026,Paula,Porto Velho,Monitor,Informática,4,848.35,3393.4,Dinheiro
+146,29/06/2026,Gabriel,Rio Branco,Notebook,Informática,1,5131.35,5131.35,Pix
+147,22/05/2026,Paula,Manaus,Mouse,Informática,3,128.2,384.6,Boleto
+148,02/01/2026,Larissa,Rio Branco,Notebook,Informática,1,5709.55,5709.55,Pix
+149,07/01/2026,Juliana,Rio Branco,Monitor,Informática,2,2160.82,4321.64,Boleto
+150,02/02/2026,Maria,Boa Vista,Mouse,Informática,1,169.44,169.44,Pix
+151,07/05/2026,Pedro,Belém,SSD,Informática,2,680.52,1361.04,Dinheiro
+152,13/05/2026,Helena,Boa Vista,Headset,Informática,2,815.76,1631.52,Cartão
+153,22/06/2026,Thiago,Belém,Impressora,Informática,4,1371.0,5484.0,Cartão
+154,19/03/2026,Bianca,Manaus,Monitor,Informática,2,1349.4,2698.8,Pix
+155,18/06/2026,Thiago,Belém,Mouse,Informática,3,76.88,230.64,Cartão
+156,24/04/2026,Larissa,Rio Branco,Monitor,Informática,2,1956.49,3912.98,Dinheiro
+157,03/04/2026,Rafael,Belém,Headset,Informática,4,848.8,3395.2,Dinheiro
+158,30/01/2026,José,Boa Vista,Mouse,Informática,1,60.48,60.48,Cartão
+159,11/01/2026,Lucas,Rio Branco,Teclado,Informática,3,83.23,249.69,Pix
+160,13/04/2026,Ana,Boa Vista,Mouse,Informática,3,66.95,200.85,Boleto
+161,25/04/2026,Rafael,Rio Branco,Mouse,Informática,1,100.03,100.03,Boleto
+162,02/04/2026,Thiago,Porto Velho,Impressora,Informática,3,618.81,1856.43,Cartão
+163,23/02/2026,Helena,Belém,SSD,Informática,1,670.86,670.86,Boleto
+164,17/03/2026,Larissa,Rio Branco,Monitor,Informática,2,771.5,1543.0,Pix
+165,01/05/2026,Fernanda,Rio Branco,Headset,Informática,2,178.56,357.12,Pix
+166,07/02/2026,Rafael,Rio Branco,Headset,Informática,2,548.12,1096.24,Boleto
+167,03/03/2026,Maria,Belém,Monitor,Informática,3,2442.89,7328.67,Pix
+168,06/06/2026,Thiago,Belém,Mouse,Informática,1,151.72,151.72,Pix
+169,14/05/2026,Larissa,Boa Vista,Mouse,Informática,1,89.04,89.04,Boleto
+170,24/02/2026,Carlos,Belém,Teclado,Informática,2,337.37,674.74,Pix
+171,03/06/2026,Paula,Boa Vista,SSD,Informática,1,301.01,301.01,Dinheiro
+172,25/05/2026,Bianca,Rio Branco,Teclado,Informática,3,296.19,888.57,Pix
+173,02/06/2026,Larissa,Rio Branco,Mouse,Informática,3,172.9,518.7,Pix
+174,08/04/2026,Helena,Porto Velho,Teclado,Informática,4,111.11,444.44,Boleto
+175,09/06/2026,Lucas,Porto Velho,Monitor,Informática,2,730.31,1460.62,Cartão
+176,03/06/2026,Maria,Boa Vista,Impressora,Informática,3,1520.36,4561.08,Boleto
+177,10/06/2026,Helena,Porto Velho,Mouse,Informática,1,153.29,153.29,Boleto
+178,22/01/2026,Gabriel,Rio Branco,Headset,Informática,2,245.9,491.8,Pix
+179,15/02/2026,Camila,Porto Velho,Mouse,Informática,1,108.33,108.33,Dinheiro
+180,04/01/2026,João,Manaus,Notebook,Informática,1,4054.01,4054.01,Boleto
+181,02/06/2026,Juliana,Boa Vista,Monitor,Informática,4,2475.12,9900.48,Pix
+182,11/06/2026,Thiago,Rio Branco,Notebook,Informática,2,6150.79,12301.58,Dinheiro
+183,01/03/2026,Camila,Manaus,Headset,Informática,4,846.86,3387.44,Cartão
+184,11/01/2026,Mateus,Porto Velho,Teclado,Informática,4,264.49,1057.96,Boleto
+185,17/01/2026,Pedro,Rio Branco,SSD,Informática,2,397.66,795.32,Cartão
+186,30/04/2026,Larissa,Manaus,Mouse,Informática,2,44.15,88.3,Boleto
+187,08/02/2026,Lucas,Belém,Headset,Informática,1,838.91,838.91,Boleto
+188,20/02/2026,João,Manaus,Teclado,Informática,2,328.67,657.34,Cartão
+189,12/01/2026,Carlos,Belém,Headset,Informática,4,819.61,3278.44,Pix
+190,04/01/2026,Juliana,Porto Velho,Notebook,Informática,2,6288.39,12576.78,Cartão
+191,19/01/2026,Maria,Rio Branco,Notebook,Informática,4,4332.12,17328.48,Pix
+192,26/05/2026,João,Belém,Mouse,Informática,1,74.34,74.34,Boleto
+193,17/03/2026,José,Porto Velho,Impressora,Informática,3,1712.11,5136.33,Boleto
+194,04/04/2026,Maria,Porto Velho,Headset,Informática,2,272.42,544.84,Dinheiro
+195,25/06/2026,Lucas,Belém,Mouse,Informática,3,129.61,388.83,Boleto
+196,01/05/2026,Amanda,Belém,Headset,Informática,1,591.98,591.98,Pix
+197,10/02/2026,Carlos,Manaus,Monitor,Informática,1,2032.42,2032.42,Boleto
+198,25/04/2026,Ana,Boa Vista,Mouse,Informática,2,71.07,142.14,Boleto
+199,05/02/2026,José,Rio Branco,Impressora,Informática,1,1400.23,1400.23,Boleto
+200,31/01/2026,Ana,Manaus,Monitor,Informática,4,2027.21,8108.84,Dinheiro
+201,19/06/2026,Juliana,Manaus,Teclado,Informática,4,249.66,998.64,Cartão
+202,16/04/2026,Rafael,Rio Branco,SSD,Informática,2,249.57,499.14,Dinheiro
+203,26/04/2026,Lucas,Rio Branco,Notebook,Informática,2,5521.52,11043.04,Pix
+204,02/01/2026,Juliana,Rio Branco,Monitor,Informática,2,1840.99,3681.98,Dinheiro
+205,16/01/2026,Mateus,Rio Branco,Headset,Informática,3,242.78,728.34,Dinheiro
+206,17/05/2026,Amanda,Porto Velho,SSD,Informática,3,489.86,1469.58,Cartão
+207,16/02/2026,Pedro,Boa Vista,Mouse,Informática,2,52.0,104.0,Cartão
+208,22/04/2026,José,Porto Velho,Monitor,Informática,2,815.75,1631.5,Boleto
+209,14/05/2026,Ana,Porto Velho,Impressora,Informática,4,1745.36,6981.44,Boleto
+210,26/06/2026,Camila,Boa Vista,Headset,Informática,3,399.79,1199.37,Pix
+211,16/02/2026,Mateus,Porto Velho,Headset,Informática,2,784.83,1569.66,Pix
+212,02/02/2026,Juliana,Belém,SSD,Informática,4,282.5,1130.0,Boleto
+213,18/06/2026,Bianca,Belém,Impressora,Informática,1,1257.49,1257.49,Boleto
+214,06/04/2026,Amanda,Porto Velho,Notebook,Informática,4,5773.21,23092.84,Dinheiro
+215,27/04/2026,Ana,Boa Vista,Notebook,Informática,3,6347.63,19042.89,Boleto
+216,11/06/2026,Larissa,Boa Vista,Monitor,Informática,4,2463.89,9855.56,Boleto
+217,20/06/2026,Carlos,Rio Branco,Monitor,Informática,2,1489.95,2979.9,Cartão
+218,19/01/2026,José,Boa Vista,Mouse,Informática,2,124.54,249.08,Cartão
+219,22/03/2026,João,Belém,Impressora,Informática,4,806.59,3226.36,Cartão
+220,20/01/2026,Maria,Boa Vista,Headset,Informática,2,840.76,1681.52,Pix
+221,12/06/2026,Lucas,Rio Branco,Headset,Informática,3,495.12,1485.36,Pix
+222,25/02/2026,Fernanda,Rio Branco,Teclado,Informática,4,194.09,776.36,Dinheiro
+223,20/01/2026,Larissa,Belém,SSD,Informática,1,748.11,748.11,Cartão
+224,06/02/2026,Camila,Rio Branco,Mouse,Informática,4,115.28,461.12,Dinheiro
+225,16/01/2026,Bruno,Porto Velho,Teclado,Informática,1,182.3,182.3,Boleto
+226,05/05/2026,Larissa,Porto Velho,Notebook,Informática,2,3789.41,7578.82,Cartão
+227,09/04/2026,Mateus,Manaus,Headset,Informática,3,690.59,2071.77,Cartão
+228,17/03/2026,Carlos,Boa Vista,Headset,Informática,3,711.49,2134.47,Cartão
+229,09/03/2026,Ana,Belém,Impressora,Informática,3,1442.89,4328.67,Boleto
+230,22/03/2026,João,Belém,SSD,Informática,4,264.36,1057.44,Cartão
+231,17/05/2026,Bianca,Manaus,Notebook,Informática,4,6446.79,25787.16,Pix
+232,19/04/2026,Camila,Boa Vista,Headset,Informática,3,861.87,2585.61,Cartão
+233,06/05/2026,Bianca,Porto Velho,Headset,Informática,1,439.94,439.94,Boleto
+234,08/06/2026,Maria,Porto Velho,Teclado,Informática,2,115.1,230.2,Boleto
+235,06/01/2026,João,Boa Vista,Teclado,Informática,4,309.27,1237.08,Boleto
+236,17/01/2026,Lucas,Porto Velho,Teclado,Informática,3,110.0,330.0,Cartão
+237,25/05/2026,Juliana,Rio Branco,SSD,Informática,2,519.07,1038.14,Pix
+238,01/02/2026,Gabriel,Belém,Impressora,Informática,1,1745.48,1745.48,Boleto
+239,03/06/2026,Lucas,Porto Velho,Monitor,Informática,1,1146.67,1146.67,Boleto
+240,21/05/2026,Pedro,Porto Velho,SSD,Informática,3,613.91,1841.73,Boleto
+241,08/03/2026,Bianca,Manaus,SSD,Informática,1,420.78,420.78,Dinheiro
+242,13/03/2026,Bruno,Boa Vista,Impressora,Informática,1,1164.91,1164.91,Boleto
+243,15/05/2026,João,Rio Branco,Teclado,Informática,3,324.98,974.94,Dinheiro
+244,06/04/2026,Helena,Boa Vista,Impressora,Informática,1,1782.91,1782.91,Cartão
+245,08/02/2026,Thiago,Manaus,Mouse,Informática,4,136.45,545.8,Boleto
+246,18/02/2026,Juliana,Belém,Mouse,Informática,3,139.16,417.48,Dinheiro
+247,27/05/2026,Fernanda,Belém,SSD,Informática,1,510.67,510.67,Dinheiro
+248,15/02/2026,Gabriel,Belém,Mouse,Informática,3,168.29,504.87,Pix
+249,06/04/2026,Amanda,Rio Branco,Monitor,Informática,2,950.81,1901.62,Dinheiro
+250,17/01/2026,Maria,Belém,Notebook,Informática,3,5431.03,16293.09,Cartão
+251,27/01/2026,Rafael,Porto Velho,Teclado,Informática,1,175.58,175.58,Pix
+252,05/03/2026,José,Manaus,Impressora,Informática,3,1161.38,3484.14,Boleto
+253,27/05/2026,Thiago,Manaus,Impressora,Informática,3,927.08,2781.24,Boleto
+254,20/05/2026,Paula,Manaus,Mouse,Informática,4,142.95,571.8,Dinheiro
+255,03/03/2026,Bianca,Manaus,Teclado,Informática,1,342.22,342.22,Cartão
+256,26/04/2026,Mateus,Boa Vista,SSD,Informática,2,202.1,404.2,Cartão
+257,11/02/2026,Fernanda,Porto Velho,Impressora,Informática,4,1632.28,6529.12,Boleto
+258,05/02/2026,Larissa,Rio Branco,Impressora,Informática,1,1283.33,1283.33,Dinheiro
+259,11/05/2026,Paula,Boa Vista,Mouse,Informática,1,165.1,165.1,Boleto
+260,28/04/2026,José,Rio Branco,Headset,Informática,1,313.04,313.04,Boleto
+261,11/01/2026,Gabriel,Boa Vista,Headset,Informática,3,482.83,1448.49,Dinheiro
+262,06/06/2026,Paula,Porto Velho,Headset,Informática,3,305.97,917.91,Boleto
+263,24/06/2026,Amanda,Manaus,Headset,Informática,3,826.43,2479.29,Pix
+264,16/04/2026,Mateus,Manaus,Headset,Informática,3,843.96,2531.88,Pix
+265,09/03/2026,Ana,Belém,Teclado,Informática,1,318.64,318.64,Dinheiro
+266,21/06/2026,Lucas,Manaus,Mouse,Informática,2,58.87,117.74,Dinheiro
+267,26/03/2026,Amanda,Boa Vista,Mouse,Informática,4,74.86,299.44,Boleto
+268,16/01/2026,Thiago,Porto Velho,Teclado,Informática,3,307.89,923.67,Boleto
+269,13/01/2026,Gabriel,Manaus,Impressora,Informática,2,1300.46,2600.92,Pix
+270,26/03/2026,Thiago,Belém,Headset,Informática,4,488.22,1952.88,Boleto
+271,29/03/2026,Amanda,Boa Vista,Mouse,Informática,3,172.67,518.01,Pix
+272,04/04/2026,Thiago,Boa Vista,Teclado,Informática,4,122.82,491.28,Boleto
+273,01/04/2026,José,Belém,SSD,Informática,1,764.98,764.98,Cartão
+274,29/01/2026,Thiago,Boa Vista,Teclado,Informática,1,262.5,262.5,Boleto
+275,06/06/2026,Carlos,Rio Branco,Mouse,Informática,1,114.53,114.53,Boleto
+276,02/03/2026,João,Manaus,Teclado,Informática,1,333.21,333.21,Cartão
+277,08/01/2026,Gabriel,Belém,Impressora,Informática,4,755.63,3022.52,Boleto
+278,08/05/2026,Maria,Porto Velho,Monitor,Informática,3,1645.1,4935.3,Pix
+279,26/06/2026,Bianca,Belém,Mouse,Informática,2,179.84,359.68,Pix
+280,18/01/2026,José,Belém,Headset,Informática,4,452.51,1810.04,Dinheiro
+281,07/06/2026,Thiago,Manaus,SSD,Informática,3,288.0,864.0,Boleto
+282,30/06/2026,Rafael,Manaus,Monitor,Informática,1,1836.96,1836.96,Pix
+283,22/02/2026,José,Belém,SSD,Informática,3,701.77,2105.31,Cartão
+284,15/03/2026,Bruno,Rio Branco,Notebook,Informática,1,5470.75,5470.75,Cartão
+285,24/02/2026,Camila,Rio Branco,Teclado,Informática,2,156.81,313.62,Cartão
+286,04/05/2026,Helena,Belém,Mouse,Informática,3,109.21,327.63,Dinheiro
+287,21/05/2026,Carlos,Boa Vista,Monitor,Informática,3,2418.81,7256.43,Cartão
+288,06/03/2026,Amanda,Rio Branco,Teclado,Informática,3,104.47,313.41,Dinheiro
+289,28/01/2026,Thiago,Rio Branco,Teclado,Informática,2,323.77,647.54,Dinheiro
+290,06/02/2026,Mateus,Belém,Teclado,Informática,4,80.19,320.76,Boleto
+291,24/03/2026,Bruno,Boa Vista,Monitor,Informática,3,2477.47,7432.41,Cartão
+292,31/01/2026,Bianca,Boa Vista,Teclado,Informática,2,278.65,557.3,Dinheiro
+293,15/06/2026,Rafael,Rio Branco,SSD,Informática,2,302.43,604.86,Cartão
+294,31/05/2026,Helena,Porto Velho,Notebook,Informática,3,4691.98,14075.94,Cartão
+295,15/05/2026,Larissa,Manaus,Mouse,Informática,1,72.16,72.16,Cartão
+296,09/03/2026,Fernanda,Boa Vista,Notebook,Informática,2,4899.47,9798.94,Pix
+297,04/03/2026,Thiago,Porto Velho,Impressora,Informática,1,1690.56,1690.56,Pix
+298,04/01/2026,Carlos,Porto Velho,Impressora,Informática,1,782.16,782.16,Cartão
+299,17/01/2026,Maria,Belém,Impressora,Informática,2,1031.02,2062.04,Boleto
+300,08/05/2026,João,Rio Branco,Teclado,Informática,1,168.06,168.06,Pix
+301,10/05/2026,José,Manaus,Mouse,Informática,3,167.3,501.9,Pix
+302,03/02/2026,Rafael,Boa Vista,Teclado,Informática,4,304.21,1216.84,Cartão
+303,04/05/2026,Bianca,Belém,Notebook,Informática,2,4373.88,8747.76,Cartão
+304,13/04/2026,Carlos,Manaus,Monitor,Informática,4,1400.59,5602.36,Boleto
+305,03/03/2026,Juliana,Manaus,SSD,Informática,1,620.62,620.62,Boleto
+306,29/03/2026,João,Belém,Notebook,Informática,3,5736.72,17210.16,Boleto
+307,16/03/2026,Larissa,Boa Vista,Teclado,Informática,2,153.8,307.6,Cartão
+308,06/06/2026,Rafael,Rio Branco,Mouse,Informática,1,48.93,48.93,Pix
+309,11/02/2026,José,Boa Vista,Mouse,Informática,3,93.37,280.11,Boleto
+310,06/02/2026,Juliana,Manaus,Mouse,Informática,1,82.77,82.77,Cartão
+311,15/04/2026,Rafael,Porto Velho,Mouse,Informática,1,123.41,123.41,Cartão
+312,13/05/2026,Camila,Porto Velho,Teclado,Informática,2,137.4,274.8,Cartão
+313,01/02/2026,Juliana,Manaus,Headset,Informática,1,372.44,372.44,Boleto
+314,11/04/2026,Juliana,Boa Vista,Monitor,Informática,1,2350.81,2350.81,Boleto
+315,24/03/2026,Mateus,Manaus,Monitor,Informática,1,2339.18,2339.18,Dinheiro
+316,15/03/2026,Camila,Belém,SSD,Informática,4,543.87,2175.48,Cartão
+317,26/02/2026,Mateus,Porto Velho,Impressora,Informática,1,1105.94,1105.94,Boleto
+318,18/02/2026,Carlos,Porto Velho,Monitor,Informática,4,1839.63,7358.52,Boleto
+319,28/05/2026,Fernanda,Porto Velho,Monitor,Informática,2,1028.01,2056.02,Boleto
+320,05/03/2026,Amanda,Belém,Headset,Informática,2,203.65,407.3,Boleto
+321,12/02/2026,Paula,Manaus,Impressora,Informática,2,945.33,1890.66,Boleto
+322,07/03/2026,José,Manaus,Notebook,Informática,1,5828.64,5828.64,Pix
+323,08/06/2026,Lucas,Belém,Impressora,Informática,4,770.42,3081.68,Cartão
+324,04/06/2026,Larissa,Boa Vista,Headset,Informática,3,591.15,1773.45,Boleto
+325,17/06/2026,Juliana,Manaus,SSD,Informática,3,740.91,2222.73,Dinheiro
+326,28/03/2026,Pedro,Manaus,Monitor,Informática,2,1699.96,3399.92,Pix
+327,27/02/2026,Fernanda,Manaus,Mouse,Informática,2,131.71,263.42,Pix
+328,13/04/2026,Gabriel,Manaus,Headset,Informática,2,880.37,1760.74,Dinheiro
+329,28/02/2026,João,Boa Vista,Teclado,Informática,1,109.62,109.62,Boleto
+330,17/03/2026,Mateus,Boa Vista,Monitor,Informática,4,1120.76,4483.04,Boleto
+331,18/01/2026,Carlos,Boa Vista,Impressora,Informática,2,1778.08,3556.16,Boleto
+332,26/04/2026,José,Rio Branco,Notebook,Informática,4,6477.26,25909.04,Pix
+333,06/06/2026,Camila,Porto Velho,Teclado,Informática,2,186.44,372.88,Dinheiro
+334,19/03/2026,Juliana,Belém,Headset,Informática,3,250.65,751.95,Cartão
+335,16/06/2026,João,Manaus,Monitor,Informática,3,1078.83,3236.49,Boleto
+336,26/01/2026,Lucas,Porto Velho,Impressora,Informática,4,810.81,3243.24,Cartão
+337,02/03/2026,Thiago,Rio Branco,Monitor,Informática,4,1781.33,7125.32,Boleto
+338,20/03/2026,Ana,Boa Vista,Monitor,Informática,4,2098.97,8395.88,Boleto
+339,09/01/2026,Thiago,Porto Velho,Headset,Informática,3,233.34,700.02,Pix
+340,08/04/2026,Ana,Porto Velho,Notebook,Informática,1,5878.95,5878.95,Dinheiro
+341,08/04/2026,Pedro,Rio Branco,Impressora,Informática,3,1422.3,4266.9,Boleto
+342,08/06/2026,Helena,Manaus,Impressora,Informática,1,1405.96,1405.96,Boleto
+343,15/02/2026,Mateus,Boa Vista,Teclado,Informática,2,280.78,561.56,Dinheiro
+344,25/02/2026,José,Porto Velho,SSD,Informática,1,346.19,346.19,Pix
+345,04/04/2026,Helena,Rio Branco,Mouse,Informática,4,93.23,372.92,Dinheiro
+346,25/06/2026,Carlos,Porto Velho,Mouse,Informática,3,41.58,124.74,Dinheiro
+347,26/04/2026,Pedro,Belém,Mouse,Informática,2,51.48,102.96,Boleto
+348,21/01/2026,José,Boa Vista,Headset,Informática,3,202.78,608.34,Pix
+349,22/06/2026,João,Boa Vista,Teclado,Informática,4,167.78,671.12,Cartão
+350,03/02/2026,Fernanda,Manaus,Impressora,Informática,2,1379.22,2758.44,Cartão
+351,09/04/2026,Amanda,Rio Branco,Teclado,Informática,3,258.22,774.66,Pix
+352,07/05/2026,Gabriel,Boa Vista,Mouse,Informática,1,120.22,120.22,Boleto
+353,14/06/2026,João,Boa Vista,Notebook,Informática,3,4959.02,14877.06,Pix
+354,05/05/2026,Gabriel,Porto Velho,Notebook,Informática,2,6110.08,12220.16,Boleto
+355,06/01/2026,Bianca,Belém,Teclado,Informática,4,180.2,720.8,Pix
+356,31/05/2026,Mateus,Porto Velho,Impressora,Informática,1,1223.97,1223.97,Cartão
+357,18/06/2026,Juliana,Belém,SSD,Informática,1,504.81,504.81,Dinheiro
+358,20/05/2026,Thiago,Rio Branco,Headset,Informática,2,825.57,1651.14,Boleto
+359,22/06/2026,Pedro,Belém,Headset,Informática,2,152.37,304.74,Boleto
+360,23/03/2026,Carlos,Manaus,Impressora,Informática,2,985.9,1971.8,Cartão
+361,03/03/2026,Fernanda,Belém,Mouse,Informática,2,126.98,253.96,Pix
+362,02/04/2026,Larissa,Rio Branco,Mouse,Informática,2,148.12,296.24,Pix
+363,12/01/2026,Larissa,Belém,Mouse,Informática,4,140.1,560.4,Pix
+364,26/05/2026,Thiago,Porto Velho,SSD,Informática,3,348.86,1046.58,Boleto
+365,12/01/2026,Camila,Porto Velho,Impressora,Informática,2,720.5,1441.0,Boleto
+366,17/02/2026,Bianca,Boa Vista,Notebook,Informática,2,3526.71,7053.42,Pix
+367,09/01/2026,Bruno,Porto Velho,Impressora,Informática,1,759.04,759.04,Cartão
+368,27/06/2026,Ana,Boa Vista,Mouse,Informática,4,62.67,250.68,Dinheiro
+369,06/01/2026,Juliana,Manaus,Impressora,Informática,3,738.63,2215.89,Cartão
+370,04/06/2026,Camila,Manaus,SSD,Informática,1,191.7,191.7,Dinheiro
+371,20/01/2026,João,Belém,Notebook,Informática,2,4538.4,9076.8,Cartão
+372,12/06/2026,Thiago,Belém,Monitor,Informática,3,1207.01,3621.03,Boleto
+373,15/04/2026,Ana,Porto Velho,SSD,Informática,2,640.18,1280.36,Cartão
+374,07/02/2026,Fernanda,Belém,Monitor,Informática,3,1797.11,5391.33,Dinheiro
+375,08/04/2026,Ana,Rio Branco,Monitor,Informática,3,2122.83,6368.49,Dinheiro
+376,06/01/2026,Pedro,Belém,SSD,Informática,2,182.98,365.96,Dinheiro
+377,18/05/2026,Larissa,Belém,Monitor,Informática,3,2493.36,7480.08,Boleto
+378,12/05/2026,Rafael,Boa Vista,SSD,Informática,4,565.23,2260.92,Dinheiro
+379,15/01/2026,Carlos,Manaus,Teclado,Informática,4,150.93,603.72,Dinheiro
+380,10/06/2026,Amanda,Porto Velho,SSD,Informática,1,562.87,562.87,Boleto
+381,20/03/2026,José,Boa Vista,Mouse,Informática,3,132.75,398.25,Cartão
+382,21/04/2026,Bruno,Boa Vista,Teclado,Informática,2,133.89,267.78,Pix
+383,16/06/2026,Mateus,Belém,Headset,Informática,3,249.14,747.42,Dinheiro
+384,17/03/2026,Pedro,Boa Vista,Mouse,Informática,4,123.85,495.4,Dinheiro
+385,16/01/2026,Bruno,Boa Vista,Mouse,Informática,2,148.16,296.32,Boleto
+386,03/06/2026,Paula,Porto Velho,Impressora,Informática,1,850.08,850.08,Cartão
+387,01/01/2026,Pedro,Belém,Monitor,Informática,2,734.32,1468.64,Dinheiro
+388,06/02/2026,Fernanda,Porto Velho,SSD,Informática,3,676.89,2030.67,Dinheiro
+389,03/05/2026,Paula,Rio Branco,Impressora,Informática,4,1275.67,5102.68,Boleto
+390,07/03/2026,Mateus,Belém,Headset,Informática,4,313.02,1252.08,Boleto
+391,10/02/2026,Fernanda,Porto Velho,SSD,Informática,1,741.53,741.53,Pix
+392,27/01/2026,Fernanda,Rio Branco,Monitor,Informática,4,1776.38,7105.52,Cartão
+393,04/06/2026,Gabriel,Manaus,SSD,Informática,1,302.4,302.4,Dinheiro
+394,11/01/2026,Rafael,Rio Branco,Notebook,Informática,2,5761.08,11522.16,Boleto
+395,28/01/2026,Thiago,Rio Branco,Headset,Informática,4,880.94,3523.76,Boleto
+396,03/02/2026,Pedro,Belém,Teclado,Informática,1,282.8,282.8,Cartão
+397,21/01/2026,Larissa,Rio Branco,Monitor,Informática,2,992.04,1984.08,Cartão
+398,16/01/2026,Bianca,Manaus,Teclado,Informática,4,311.63,1246.52,Cartão
+399,31/01/2026,Larissa,Belém,Notebook,Informática,2,4003.23,8006.46,Dinheiro
+400,16/06/2026,Amanda,Boa Vista,Monitor,Informática,2,1592.39,3184.78,Cartão
+401,02/06/2026,Bianca,Belém,Monitor,Informática,2,1041.56,2083.12,Cartão
+402,10/01/2026,João,Manaus,Monitor,Informática,4,854.34,3417.36,Dinheiro
+403,19/05/2026,Paula,Rio Branco,Monitor,Informática,3,1856.99,5570.97,Dinheiro
+404,02/05/2026,Juliana,Manaus,Notebook,Informática,4,4048.67,16194.68,Pix
+405,07/03/2026,Camila,Rio Branco,Monitor,Informática,3,738.26,2214.78,Pix
+406,19/05/2026,Carlos,Porto Velho,SSD,Informática,4,255.41,1021.64,Boleto
+407,05/05/2026,Camila,Boa Vista,Notebook,Informática,2,5036.87,10073.74,Pix
+408,18/06/2026,Mateus,Manaus,SSD,Informática,4,472.76,1891.04,Boleto
+409,25/04/2026,José,Rio Branco,SSD,Informática,4,694.69,2778.76,Cartão
+410,22/05/2026,Larissa,Rio Branco,Notebook,Informática,4,4744.93,18979.72,Boleto
+411,19/05/2026,Camila,Porto Velho,Monitor,Informática,4,764.74,3058.96,Pix
+412,08/03/2026,José,Manaus,Headset,Informática,4,410.08,1640.32,Boleto
+413,28/05/2026,Paula,Porto Velho,Mouse,Informática,3,44.63,133.89,Pix
+414,16/03/2026,Paula,Rio Branco,Monitor,Informática,2,771.41,1542.82,Cartão
+415,10/06/2026,Pedro,Rio Branco,Mouse,Informática,1,165.77,165.77,Pix
+416,17/06/2026,Bruno,Belém,Teclado,Informática,2,203.82,407.64,Dinheiro
+417,06/03/2026,Thiago,Rio Branco,Teclado,Informática,2,197.25,394.5,Boleto
+418,25/02/2026,Larissa,Boa Vista,Mouse,Informática,4,102.97,411.88,Cartão
+419,27/05/2026,Pedro,Manaus,Monitor,Informática,2,1665.39,3330.78,Cartão
+420,12/03/2026,João,Belém,Headset,Informática,3,230.83,692.49,Dinheiro
+421,20/04/2026,Helena,Porto Velho,Monitor,Informática,3,1132.44,3397.32,Dinheiro
+422,11/03/2026,Ana,Manaus,SSD,Informática,3,646.89,1940.67,Cartão
+423,24/03/2026,Pedro,Rio Branco,Impressora,Informática,3,1733.53,5200.59,Dinheiro
+424,09/03/2026,Pedro,Boa Vista,Impressora,Informática,2,1130.45,2260.9,Dinheiro
+425,11/06/2026,Lucas,Rio Branco,Teclado,Informática,3,92.56,277.68,Boleto
+426,11/04/2026,Amanda,Porto Velho,Monitor,Informática,2,838.65,1677.3,Dinheiro
+427,24/01/2026,Thiago,Rio Branco,Mouse,Informática,1,120.03,120.03,Dinheiro
+428,25/04/2026,Gabriel,Boa Vista,Mouse,Informática,2,158.74,317.48,Pix
+429,18/03/2026,Ana,Belém,Teclado,Informática,4,275.25,1101.0,Pix
+430,21/06/2026,Carlos,Boa Vista,Headset,Informática,3,345.25,1035.75,Cartão
+431,27/03/2026,Larissa,Boa Vista,Monitor,Informática,4,1898.14,7592.56,Boleto
+432,25/02/2026,Carlos,Belém,Mouse,Informática,2,106.11,212.22,Boleto
+433,16/05/2026,Lucas,Belém,SSD,Informática,1,546.35,546.35,Pix
+434,27/01/2026,Juliana,Rio Branco,Headset,Informática,2,192.99,385.98,Pix
+435,12/05/2026,Helena,Manaus,Impressora,Informática,2,907.71,1815.42,Cartão
+436,28/03/2026,Larissa,Boa Vista,SSD,Informática,3,298.05,894.15,Boleto
+437,14/05/2026,Bruno,Rio Branco,Impressora,Informática,1,868.63,868.63,Boleto
+438,16/01/2026,Lucas,Porto Velho,SSD,Informática,1,730.87,730.87,Pix
+439,13/01/2026,Thiago,Rio Branco,Monitor,Informática,4,740.46,2961.84,Pix
+440,27/01/2026,Camila,Boa Vista,Notebook,Informática,2,4936.61,9873.22,Cartão
+441,06/02/2026,Bianca,Porto Velho,Teclado,Informática,2,126.06,252.12,Boleto
+442,08/06/2026,Amanda,Belém,Impressora,Informática,2,1058.99,2117.98,Boleto
+443,20/05/2026,Carlos,Belém,Notebook,Informática,4,4078.28,16313.12,Pix
+444,05/01/2026,Lucas,Belém,Mouse,Informática,1,71.41,71.41,Cartão
+445,07/05/2026,Helena,Boa Vista,Monitor,Informática,2,1552.45,3104.9,Pix
+446,24/01/2026,Ana,Belém,SSD,Informática,1,771.61,771.61,Pix
+447,23/04/2026,Amanda,Porto Velho,Notebook,Informática,1,4891.71,4891.71,Cartão
+448,19/02/2026,Camila,Belém,Impressora,Informática,2,1621.2,3242.4,Dinheiro
+449,11/05/2026,Bruno,Boa Vista,Teclado,Informática,2,301.54,603.08,Pix
+450,16/05/2026,José,Belém,Monitor,Informática,4,958.02,3832.08,Dinheiro
+451,04/03/2026,Ana,Manaus,Impressora,Informática,2,527.7,1055.4,Pix
+452,29/01/2026,João,Rio Branco,SSD,Informática,3,567.9,1703.7,Dinheiro
+453,27/06/2026,Juliana,Belém,Notebook,Informática,1,4105.64,4105.64,Boleto
+454,27/04/2026,Maria,Rio Branco,Impressora,Informática,1,893.19,893.19,Cartão
+455,01/02/2026,José,Manaus,Mouse,Informática,2,45.14,90.28,Boleto
+456,08/01/2026,Paula,Boa Vista,Headset,Informática,3,389.51,1168.53,Dinheiro
+457,05/01/2026,Amanda,Manaus,Headset,Informática,4,160.93,643.72,Boleto
+458,02/06/2026,Thiago,Boa Vista,Headset,Informática,2,314.86,629.72,Cartão
+459,13/01/2026,João,Rio Branco,Notebook,Informática,3,6336.43,19009.29,Dinheiro
+460,19/01/2026,Carlos,Rio Branco,Impressora,Informática,3,1012.22,3036.66,Pix
+461,17/03/2026,Fernanda,Boa Vista,Impressora,Informática,3,1094.63,3283.89,Boleto
+462,30/03/2026,José,Manaus,Teclado,Informática,2,227.91,455.82,Cartão
+463,08/03/2026,Carlos,Porto Velho,SSD,Informática,3,197.92,593.76,Boleto
+464,20/02/2026,Pedro,Rio Branco,Teclado,Informática,1,117.52,117.52,Cartão
+465,08/04/2026,Ana,Boa Vista,Headset,Informática,3,433.16,1299.48,Dinheiro
+466,25/05/2026,Rafael,Rio Branco,Teclado,Informática,1,224.75,224.75,Boleto
+467,26/04/2026,Rafael,Manaus,Monitor,Informática,2,2169.96,4339.92,Boleto
+468,10/05/2026,Larissa,Rio Branco,Monitor,Informática,3,1975.44,5926.32,Dinheiro
+469,23/03/2026,Pedro,Rio Branco,Notebook,Informática,2,4831.09,9662.18,Cartão
+470,27/05/2026,Thiago,Porto Velho,Monitor,Informática,4,1237.47,4949.88,Pix
+471,19/05/2026,Thiago,Rio Branco,Mouse,Informática,1,129.63,129.63,Pix
+472,02/04/2026,Lucas,Belém,Monitor,Informática,4,2022.48,8089.92,Dinheiro
+473,06/05/2026,Pedro,Rio Branco,Mouse,Informática,4,64.16,256.64,Pix
+474,16/06/2026,Carlos,Boa Vista,Impressora,Informática,1,1248.69,1248.69,Dinheiro
+475,20/06/2026,João,Rio Branco,SSD,Informática,4,400.44,1601.76,Pix
+476,18/02/2026,Lucas,Porto Velho,Impressora,Informática,1,1332.78,1332.78,Boleto
+477,15/05/2026,Maria,Porto Velho,Notebook,Informática,2,5600.39,11200.78,Dinheiro
+478,11/06/2026,Carlos,Rio Branco,Notebook,Informática,1,5383.66,5383.66,Cartão
+479,09/06/2026,Paula,Boa Vista,SSD,Informática,1,652.01,652.01,Pix
+480,14/06/2026,Bruno,Boa Vista,Notebook,Informática,1,4088.84,4088.84,Dinheiro
+481,29/03/2026,Amanda,Boa Vista,Mouse,Informática,2,104.69,209.38,Boleto
+482,22/03/2026,José,Manaus,Teclado,Informática,2,126.08,252.16,Pix
+483,28/05/2026,Larissa,Manaus,SSD,Informática,3,643.36,1930.08,Cartão
+484,02/05/2026,João,Boa Vista,Notebook,Informática,2,5097.44,10194.88,Dinheiro
+485,22/06/2026,João,Belém,Notebook,Informática,2,4780.97,9561.94,Boleto
+486,24/06/2026,Gabriel,Belém,Monitor,Informática,2,1298.2,2596.4,Cartão
+487,04/06/2026,Rafael,Rio Branco,Teclado,Informática,3,230.53,691.59,Boleto
+488,04/02/2026,Amanda,Belém,Monitor,Informática,1,1788.61,1788.61,Boleto
+489,11/06/2026,Carlos,Manaus,Headset,Informática,4,646.99,2587.96,Cartão
+490,23/02/2026,Ana,Manaus,SSD,Informática,1,310.79,310.79,Dinheiro
+491,26/06/2026,José,Manaus,SSD,Informática,3,313.52,940.56,Pix
+492,21/01/2026,Helena,Manaus,SSD,Informática,2,404.26,808.52,Dinheiro
+493,10/06/2026,Helena,Belém,Monitor,Informática,3,884.71,2654.13,Dinheiro
+494,22/04/2026,José,Rio Branco,Impressora,Informática,1,1677.01,1677.01,Dinheiro
+495,05/01/2026,Rafael,Boa Vista,Monitor,Informática,1,1020.24,1020.24,Cartão
+496,12/02/2026,Ana,Porto Velho,Headset,Informática,1,845.13,845.13,Pix
+497,08/01/2026,Pedro,Rio Branco,Mouse,Informática,4,140.1,560.4,Cartão
+498,04/04/2026,Bruno,Rio Branco,Monitor,Informática,2,1158.81,2317.62,Cartão
+499,29/04/2026,João,Porto Velho,Monitor,Informática,1,726.04,726.04,Pix
+500,12/01/2026,Bianca,Porto Velho,Notebook,Informática,4,4569.05,18276.2,Cartão
